@@ -1,8 +1,7 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Hugo + Tailwind CSS Boilerplate"
-canonifyurls = true
-relativeURLs = true
+baseurl      = "https://hugomoraga.github.io/hugo-tailwind-boilerplate/"
+title        = "hugo-tailwind-boilerplate"
+languageCode = "es-ES"
+publishDir = "docs"
 
 [[menu.sidebar]]
 name = "Home"
