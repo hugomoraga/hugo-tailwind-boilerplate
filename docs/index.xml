@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo &#43; TailwindCSS Boilerplate on hugo-tailwind-boilerplate</title>
+    <link>https://hugomoraga.github.io/hugo-tailwind-boilerplate/</link>
+    <description>Recent content in Hugo &#43; TailwindCSS Boilerplate on hugo-tailwind-boilerplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hugomoraga.github.io/hugo-tailwind-boilerplate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://hugomoraga.github.io/hugo-tailwind-boilerplate/articles/second-post/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugomoraga.github.io/hugo-tailwind-boilerplate/articles/second-post/</guid>
+      <description>This is the second post, checking autobuilds.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hugomoraga.github.io/hugo-tailwind-boilerplate/articles/hello-world/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugomoraga.github.io/hugo-tailwind-boilerplate/articles/hello-world/</guid>
+      <description>This is a test article</description>
+    </item>
+    
+    <item>
+      <title>Not Found</title>
+      <link>https://hugomoraga.github.io/hugo-tailwind-boilerplate/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugomoraga.github.io/hugo-tailwind-boilerplate/404/</guid>
+      <description>Not Found </description>
+    </item>
+    
+  </channel>
+</rss>
